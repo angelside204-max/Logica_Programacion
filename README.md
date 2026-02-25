@@ -22,7 +22,7 @@ El objetivo del programa es reforzar el uso de condicionales, entrada de datos p
 
 ## Datos del grupo
 - **Integrante:** Angel Jiménez
-  - **Asignatura:** Logica de Programación
+- **Asignatura:** Logica de Programación
 
 ## Fecha
 **Fecha:** 28 Febrero 2026
